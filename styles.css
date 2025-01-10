@@ -30,8 +30,8 @@ body {
 }
 
 .logo {
-    width: 170px;
-    margin-right: 40px;
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 ul {
@@ -76,14 +76,8 @@ button {
    gap: 6px;
 }
 
-.love {
-    color: red;
-    font-size: 21px;
-}
-
 .main-image {
-    min-width: 300px;
-    flex: 1;
+    width: 300px;
     border-radius: 10px;
 }
 
@@ -112,6 +106,7 @@ button {
     display: flex;
     flex-direction: column;
     flex: 50px;
+    align-items: center;
 }
 
 .image {
@@ -120,9 +115,13 @@ button {
     border-radius: 10px;
 }
 
+.content-wrapper .description {
+    font-size: 25px;
+}
+
 .quote {
     background-color: #E5E7EB;
-    padding: 50px 33%;
+    padding: 50px 27%;
 }
 
 .quote-text {
@@ -145,7 +144,7 @@ button {
 
 .box {
     min-width: 600px;
-    margin: 80px 15%;
+    margin: 80px 22%;
     flex: 1;
     padding: 20px 40px;
     color: white;

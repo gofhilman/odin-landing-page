@@ -1,3 +1,9 @@
-# odin-landing-page
+# Odin Landing Page
 
-I create landing page based on The Odin Project.
+My landing page using HTML and CSS only
+
+Live: <https://gofhilman.github.io/odin-landing-page/>
+
+## Features
+
+- CSS styling with flexbox
